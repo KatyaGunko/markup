@@ -1,0 +1,22 @@
+* {
+    font-family: AvenirNextLT;
+    margin: 0;
+    paddong: 0;
+}
+
+body {
+    background-color: #ccc;
+}
+
+header {
+    height: 88px;
+    padding: 100px 0;
+    background-color: #fff;
+}
+
+header .header-logo {
+    display: inline-block;
+    width: 150px;
+    height: 50px;
+    background-image: url('images/logos/lookout-120x23.png');
+}
